@@ -1,0 +1,7 @@
+# Directories
+.idea/
+vendor/
+build/
+
+# Files
+/.phpunit.result.cache
